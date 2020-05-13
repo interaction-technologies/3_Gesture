@@ -8,5 +8,6 @@ Lecture notes are located here: [03_Lab03 - Gesture.pdf](https://wiki.mediacube.
 | --- | --- |
 | Arduino_sketches | Starting code for lab exercises |
 | Breadboard_layouts | PDF, PNG and Fritzing files for breadboard circuit layouts |
+| Datasheets | Datasheets for components used from Elegoo set |
 
 Teaching notes available on the [FH Salzburg MMT Wiki](https://wiki.mediacube.at/wiki/index.php?title=Interaction_Approaches_and_Technologies_-_SS_2020).
