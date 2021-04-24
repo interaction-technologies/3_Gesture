@@ -1,3 +1,4 @@
+// Include NewPing library by Tim Eckel
 #include <NewPing.h>
 
 // Ultrasonic setup
@@ -9,7 +10,7 @@
 NewPing my_ultrasonic(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
 
 void setup() { 
-   Serial.begin(115200);
+   Serial.begin(9600);
 }
 
 void loop() {
