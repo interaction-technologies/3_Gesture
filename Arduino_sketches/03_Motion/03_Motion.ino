@@ -5,6 +5,8 @@
 Adafruit_MPU6050 mpu;
 
 void setup(void) {
+	Serial.begin(9600);
+	
    // Initialise the sensor and check if connected
    if (!mpu.begin()) {
       while(1){
