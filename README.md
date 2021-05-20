@@ -1,4 +1,4 @@
-# Lab03_Gesture
+# Lecture5_Gesture
 
 Source code and resources for the third lab on **Interaction Technologies** course at FH Salzburg.
 
