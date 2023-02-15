@@ -10,12 +10,12 @@
 NewPing my_ultrasonic(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
 
 void setup() { 
-   Serial.begin(9600);
+	Serial.begin(9600);
 }
 
 void loop() {
-   // Get the distance from the sensor with ping_cm()
-   uint16_t distance = my_ultrasonic.ping_cm();
-   Serial.println(distance);
-   delay(200);
+	// Get the distance from the sensor with ping_cm()
+	uint16_t distance = my_ultrasonic.ping_cm();
+	Serial.println(distance);
+	delay(200);
 }
