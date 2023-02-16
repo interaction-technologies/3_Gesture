@@ -5,6 +5,7 @@ Source code and resources for the third lab on **Interaction Technologies** cour
 | Folder | Contents
 | --- | --- |
 | Arduino_sketches | Starting code for lab exercises |
+| Bonus | Some bonus lab examples for the curious |
 | Breadboard_layouts | PDF, PNG and Fritzing files for breadboard circuit layouts |
 | Datasheets | Datasheets for components used from Elegoo set |
 
